@@ -1,4 +1,4 @@
-}
+{
   "name": "elibyy/laravel-tcpdf",
   "description": "tcpdf support for laravel 5",
   "minimum-stability": "stable",

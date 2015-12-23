@@ -1,13 +1,12 @@
-{
-  "name": "lspedalieri/laravel-tcpdf",
-  "description": "tcpdf support for laravel 5.2",
+  "name": "elibyy/laravel-tcpdf",
+  "description": "tcpdf support for laravel 5",
   "minimum-stability": "stable",
   "license": "proprietary",
   "keywords":["laravel","tcpdf","pdf"],
   "authors": [
     {
-      "name": "leopoldo",
-      "email": "leopoldo.spedalieri@gmail.com"
+      "name": "eli y",
+      "email": "elibyy@gmail.com"
     }
   ],
   "require": {
